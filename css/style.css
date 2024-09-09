@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+.h1MainTitle{
+    color: rgb(107, 24, 10);
+    font-family: "Garamond", serif;
+      }
+
+.Album1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    width: 80%; 
+    height: auto;
+  }
+
+.WhitePic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    width: 50%; 
+    height: auto;
+}
+
+.bandMembers {
+    color: rgb(107, 24, 10);
+    font-family: "Garamond", serif;
+      }
+
+.h3 {
+    color: rgb(107, 26, 96);
+    font-family: "Garamond", serif;
+}
