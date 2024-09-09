@@ -3,8 +3,16 @@ body {
 }
 
 .h1MainTitle{
-    color: rgb(107, 24, 10);
-    font-family: "Garamond", serif;
+    color: rgb(135, 30, 12);
+    font-family: "Kommisar", serif;
+    font-size: 70px;
+    text-align: center;
+      }
+
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
       }
 
 .Album1 {
@@ -20,17 +28,26 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
- 
+    margin-bottom: 100px;
+    margin-top: 50px;
     width: 50%; 
     height: auto;
 }
 
 .bandMembers {
-    color: rgb(107, 24, 10);
-    font-family: "Garamond", serif;
+    color: rgb(135, 30, 12);
+    font-family: "Kommisar", serif;
+    text-align: center;
+    border-style: groove;
+    border-color: antiquewhite;
+    padding-top: 20px;
+    padding-right: 10px; 
+    padding-bottom: 20px;
+    padding-left: 40px;
       }
 
 .h3 {
-    color: rgb(107, 26, 96);
-    font-family: "Garamond", serif;
+    color: rgb(135, 30, 12);
+    font-family: "Kommisar", serif;
+    text-align: center;
 }
