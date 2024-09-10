@@ -82,3 +82,15 @@ body {
   width: 400px;
   padding: 120px;
 }
+
+div {
+  width: 370px;
+  border: 25px solid rgb(67, 2, 68);
+  padding: 90px;
+  margin: 600px;
+
+  color: rgb(135, 30, 12);
+  font-family: "Kommisar", serif;
+  font-size: large;
+  text-align: center;
+}
